@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT%20OR%20Apache--2.0-blue)
 
-A [homeos](https://github.com/hainet50b/homeos) plugin that enables a [COPR](https://copr.fedorainfracloud.org/) repository on DNF-based systems (Fedora, RHEL, and derivatives). Use it as a dependency of packages installed via the [dnf plugin](https://github.com/hainet50b/homeos-plugin-dnf) when those packages live in a COPR.
+A [homeos](https://github.com/homeos-dev/homeos) plugin that enables a [COPR](https://copr.fedorainfracloud.org/) repository on DNF-based systems (Fedora, RHEL, and derivatives). Use it as a dependency of packages installed via the [dnf plugin](https://github.com/homeos-dev/homeos-plugin-dnf) when those packages live in a COPR.
 
 ## Usage
 
